@@ -1,0 +1,6 @@
+## Interface: 110000, 110002
+## Title: EAAutoUnshift
+## Notes: Disables auto-unshift on combat for Feral/Guardian Druids
+## Author: Elfyau
+
+EAAutoUnshift.lua
